@@ -1,3 +1,4 @@
+typography_spectrum: 0.7909119436517358
 color:
   brandColors:
     - '#FFFFFF'
@@ -9,6 +10,17 @@ color:
   lightness: 0.5644016126170754
   saturation: 0.041761428117752075
   rhythmicContrast: 0.8725651872809976
+github: true
+opengraph:
+  appId: Yatricarrental
+layout_spectrum: 0.3797406191006303
+author:
+  name: Yatri Car Rental
+  email: feedback@yatricabs.com
+  url: 'http://www.yatricabs.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/684de2fc-0136-4acc-aed5-b6479f669d40.png
+name: Yatri Car Rental
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,24 +28,16 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Yatri Car Rental
-layout_spectrum: 0.3797406191006303
-typography_spectrum: 0.7909119436517358
-content: []
+navigation:
+  - name: Yatricarrental
+    url: 'Http://www.yatricabs.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4eea62e-523d-4f11-a006-3b21085574ef.png
 title: Yatri Car Rental
+content: []
 description: >-
   We are Yatri Car Rental, an online cab booking aggregator, providing customers
   with reliable and premium Outstation and Local Car Rental Service. Over the
   last decade, we are uniquely placed as the largest chauffeur driven car rental
   company in India in terms of geographical reach
-github: true
-author:
-  name: Yatri Car Rental
-  email: feedback@yatricabs.com
-  url: 'http://www.yatricabs.com'
-opengraph:
-  appId: Yatricarrental
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/684de2fc-0136-4acc-aed5-b6479f669d40.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4eea62e-523d-4f11-a006-3b21085574ef.png
