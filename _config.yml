@@ -1,0 +1,35 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#00007D'
+    - '#7777B9'
+    - '#EC172B'
+    - '#FEBE25'
+  brandStrength: 0.19037130568176508
+  lightness: 0.5644016126170754
+  saturation: 0.041761428117752075
+  rhythmicContrast: 0.8725651872809976
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Yatri Car Rental
+layout_spectrum: 0.3797406191006303
+typography_spectrum: 0.7909119436517358
+content: []
+title: ''
+description: ''
+github: true
+author:
+  name: Yatri Car Rental
+  email: feedback@yatricabs.com
+  url: 'http://www.yatricabs.com'
+opengraph:
+  appId: Yatricarrental
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/684de2fc-0136-4acc-aed5-b6479f669d40.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4eea62e-523d-4f11-a006-3b21085574ef.png
