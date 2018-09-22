@@ -21,7 +21,11 @@ layout_spectrum: 0.3797406191006303
 typography_spectrum: 0.7909119436517358
 content: []
 title: Yatri Car Rental
-description: ''
+description: >-
+  We are Yatri Car Rental, an online cab booking aggregator, providing customers
+  with reliable and premium Outstation and Local Car Rental Service. Over the
+  last decade, we are uniquely placed as the largest chauffeur driven car rental
+  company in India in terms of geographical reach
 github: true
 author:
   name: Yatri Car Rental
